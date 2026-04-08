@@ -32,3 +32,7 @@ bin/
 bin/
 out/
 *.class
+target/
+.idea/
+*.iml
+.DS_Store
