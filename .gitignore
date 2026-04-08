@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+.DS_Store
 
 ### Eclipse ###
 .apt_generated
